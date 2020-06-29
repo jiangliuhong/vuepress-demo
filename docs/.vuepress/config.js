@@ -2,6 +2,7 @@ module.exports = {
   title: 'vuepress 示例',
   description: 'vuepress 示例',
   sidebar: 'auto',
+  base: '/vuepress-demo/',
   themeConfig: {
     logo: '/favicon.png',
     nav: [
