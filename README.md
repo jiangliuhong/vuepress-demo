@@ -4,17 +4,25 @@
 
 ## 快速开始
 
-安装依赖
+**安装依赖**
 
 ```
 npm install -D vuepress # cnpm install -D vuepress
 ```
 
-启动服务
+**启动服务**
 
 
 ```
 npm run docs:dev
+```
+
+**部署服务**
+
+> 执行deploy.sh脚本
+
+```
+sh deploy.sh
 ```
 
 
